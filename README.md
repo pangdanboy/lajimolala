@@ -1,2 +1,2 @@
 # lajimolala
-git study
+第一次使用github
